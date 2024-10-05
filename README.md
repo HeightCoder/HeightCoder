@@ -1,16 +1,16 @@
-## Hi there 👋
+### Welcome on my **Profile**!
 
-<!--
-**HeightCoder/HeightCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 💻 I code programs for C# & C & C++ & VB.Net
+- 🤔 Ask me about anything related to program langauge
+- 😈 I will leak and release unique and rare sources
+- 😇 It all for education purpose only do not misuse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💲 If you want support me
+
+BTC: bc1qk7q3m5spctnevttzwsyv9n3fpmcc04s9nruhjz
+
+---
