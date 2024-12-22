@@ -5,6 +5,7 @@
 - 🛠️ I code programs for C# & C & C++ & VB.Net
 - 🖥️ Ask me about anything related to decompile software
 - 🤔 Ask me about anything related to program langauge
+- 🚧 Request for me to decompile a program of your choice.
 - ⚙️ I will leak and release unique and rare sources
 - 😈 It all for education purpose only do not misuse
 
@@ -13,6 +14,8 @@
 ### If you want support me <img src="https://github.com/user-attachments/assets/6111561e-4e3f-4e03-9b92-1f518fd2d546" alt="Blob" width="42" height="42" style="vertical-align:middle;"> 
 
 BTC: bc1qk7q3m5spctnevttzwsyv9n3fpmcc04s9nruhjz
+
+Drop me some food, I can't live for free! :D  
 
 ---
 
